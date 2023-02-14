@@ -1,0 +1,60 @@
+{
+  "mod_elements": [
+    {
+      "name": "Porno",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "porno"
+    },
+    {
+      "name": "Custom",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.porno.title": "Porno",
+      "advancements.porno.descr": "mata un bicho",
+      "item.test.custom_leggings": "Custom Leggings",
+      "item.test.custom_boots": "Custom Boots",
+      "item.test.custom_helmet": "Custom Helmet",
+      "item.test.custom_chestplate": "Custom Body"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "test",
+    "modName": "test",
+    "version": "1.0.0",
+    "author": "PAPAY, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.test",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

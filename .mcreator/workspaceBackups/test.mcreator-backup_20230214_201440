@@ -1,0 +1,59 @@
+{
+  "mod_elements": [
+    {
+      "name": "FossAmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "foss_amor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "FossIngot",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "foss_ingot"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.test.foss_amor_chestplate": "Foss Amor Body",
+      "block.test.foss_ingot": "Foss Ingot",
+      "item.test.foss_amor_helmet": "Foss Amor Helmet",
+      "item.test.foss_amor_leggings": "Foss Amor Leggings",
+      "item.test.foss_amor_boots": "Foss Amor Boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "test",
+    "modName": "test",
+    "version": "1.0.0",
+    "author": "PAPAY, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.test",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

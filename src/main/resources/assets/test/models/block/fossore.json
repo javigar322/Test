@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "test:blocks/foss_ore",
+    "up": "test:blocks/foss_ore",
+    "north": "test:blocks/foss_ore",
+    "east": "test:blocks/foss_ore",
+    "south": "test:blocks/foss_ore",
+    "west": "test:blocks/foss_ore",
+    "particle": "test:blocks/foss_ore"
+  },
+  "render_type": "solid"
+}

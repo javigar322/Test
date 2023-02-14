@@ -1,0 +1,86 @@
+{
+  "mod_elements": [
+    {
+      "name": "FossAmor",
+      "type": "armor",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "foss_amor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Fossingot",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fossingot"
+    },
+    {
+      "name": "Fossore",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fossore"
+    },
+    {
+      "name": "Fosspickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fosspickaxe"
+    },
+    {
+      "name": "Fossbiome",
+      "type": "biome",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fossbiome"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.test.foss_amor_chestplate": "Foss Amor Body",
+      "biome.test.fossbiome": "Fossbiome",
+      "block.test.fossore": "Fossore",
+      "item.test.foss_amor_helmet": "Foss Amor Helmet",
+      "item.test.fosspickaxe": "Foss pickaxe",
+      "item.test.foss_amor_leggings": "Foss Amor Leggings",
+      "item.test.fossingot": "Fossingot",
+      "item.test.foss_amor_boots": "Foss Amor Boots"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "test",
+    "modName": "test",
+    "version": "1.0.0",
+    "author": "PAPAY, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.test",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}
